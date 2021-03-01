@@ -1,4 +1,4 @@
-<x-layaout class="light">
+<x-layout class="light">
     <x-hero/>
     <x-advertisement-inline/>
     <x-range-saves/>
@@ -6,4 +6,4 @@
     <x-infography-buyers-sellers/>
     <x-section-versus/>
     <x-article-card-inline/>
-</x-layaout>
+</x-layout>

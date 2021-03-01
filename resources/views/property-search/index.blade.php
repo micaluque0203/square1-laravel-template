@@ -1,4 +1,4 @@
-<x-layaout>
+<x-layout>
     <div class="block border boder-b border-gray-300">
     </div>
     <div class="container mx-auto md:max-w-screen-lg bg-white">
@@ -45,4 +45,4 @@
             @endforeach
         </div>
     </div>
-</x-layaout>
+</x-layout>
